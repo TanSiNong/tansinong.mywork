@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-T1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 谭思浓1
+Implementation-Vendor-Id: com.tianxing
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-T1
+Created-By: Maven Integration for Eclipse
+
